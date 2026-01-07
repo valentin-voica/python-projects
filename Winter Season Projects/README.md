@@ -2,13 +2,13 @@
 
 [3D Xmas Tree for Raspberry Pi](https://thepihut.com/products/3d-xmas-tree-for-raspberry-pi)
 
-This example sets all the red LEDs to flicker randomly. Create a new Python file.
+This example sets all the red LEDs to flicker randomly.
 
 ## SnowPi
 
 [Ryanteck SnowPi - GPIO Zero Guide](https://thepihut.com/blogs/raspberry-pi-tutorials/ryanteck-snowpi-gpio-zero-guide)
 
-This example sets separate patterns for the nose, eyes and body LEDs. Create a new Python file.
+This example sets separate patterns for the nose, eyes and body LEDs.
 
 ## Run the programs at boot
 
